@@ -2,16 +2,23 @@
   "name": "desafio-ewally",
   "version": "1.0.0",
   "description": "Desafio para contratação",
-  "type": "module",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon ./src/server.js"
+    "start": "nodemon ./src/app.js",
+    "test": "jest"
   },
   "author": "João Fernandes",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.27.2",
     "cors": "^2.8.5",
     "express": "^4.18.1",
-    "nodemon": "^2.0.19"
+    "nodemon": "^2.0.19",
+    "supertest": "^6.2.4"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.18.9",
+    "babel-jest": "^28.1.3",
+    "jest": "^28.1.3"
   }
 }
