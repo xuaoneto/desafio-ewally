@@ -1,11 +1,11 @@
 # desafio-ewally
 
-### Instalar módulos
+## Instalar módulos
 ### `npm install` or `yarn`
 
-### Iniciar Projeto
+## Iniciar Projeto
 ### `npm start` or `yarn start`
 
-### Testes
+## Testes
 ### `npm test` or `yarn test`
 
