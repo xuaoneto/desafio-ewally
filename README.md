@@ -1,4 +1,4 @@
-# desafio-ewarlly
+# desafio-ewally
 
 ### Instalar módulos
 ### `npm install` or `yarn`
